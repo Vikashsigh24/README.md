@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![snake gif](https://github.com/Vikashsigh24/Vikashsigh24/blob/output/github-contribution-grid-snake.svg)
 
 ###
