@@ -50,3 +50,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
