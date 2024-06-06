@@ -52,5 +52,3 @@
 
 ###
 <img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
-
-###
