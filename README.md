@@ -51,7 +51,6 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/Vikashsigh24/Vikashsigh24/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
 
 ###
