@@ -44,10 +44,12 @@
 </div>
 
 ###
+<h2>Contact Me</h2>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/vikash-singh-b80209222/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </div>
-###
+<a><h2>vikashsigh24@gmail.com</h2></a>
+
 <img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
-###
+
