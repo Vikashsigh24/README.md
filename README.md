@@ -48,7 +48,6 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/vikash-singh-b80209222/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </div>
-
+###
 <img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-
+###
