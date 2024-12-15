@@ -51,5 +51,5 @@
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/vikash-singh-b80209222/)
  
 
-<img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Vikashsigh24/README.md/raw/output/snake.svg)
 
